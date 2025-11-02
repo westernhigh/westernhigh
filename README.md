@@ -1,5 +1,6 @@
 <div align='center'>
   <br> <br>
-  <img width="1000" height="750" alt="wally west" src="[https://files.catbox.moe/t1ti7d.png]" />
+  <img width="300" height="300" alt="wally west" src="[https://file.garden/aL0qqr5-Fnt8to6H/Untitled71_20251102200012.png]" />
 <b> </b>
-he
+<br> <br>
+reading my rentry is recommended.
