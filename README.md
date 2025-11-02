@@ -1,6 +1,7 @@
-## wip ok?
-
-<!--
+<div align='center'>
+  <br> <br>
+  <img width="1000" height="750" alt="wally west" src="[https://files.catbox.moe/t1ti7d.png]" />
+<b> </b>
 **westernhigh/westernhigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
